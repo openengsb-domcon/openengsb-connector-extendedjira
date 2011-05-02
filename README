@@ -1,0 +1,3 @@
+The current version of the jira connector does not support the management of components without having influence on issues. So if you just want to add a component but do not wish to add it immediately to an issue this ist not supported by the jira soap service.
+
+There exists a third party library which implements this feature. A discussion about this has started here: http://issues.openengsb.org/jira/browse/OPENENGSB-1269
